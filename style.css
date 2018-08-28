@@ -1,7 +1,21 @@
 pre span.value {
-	color: green
+  color: green;
 }
 
 pre span.field {
-	color: orange
+  color: orange;
+}
+
+#business_card {
+  position: relative;
+  width: 100vw;
+  height: 100vh; 
+}
+
+#business_card > pre {
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
