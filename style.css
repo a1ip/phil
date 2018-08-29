@@ -6,6 +6,19 @@ pre span.field {
   color: orange;
 }
 
+pre a,
+a:link,
+a:active,
+a:visited,
+a:hover {
+  color:green;
+  text-decoration: none;
+}
+
+pre a:hover {
+  text-decoration: underline;
+}
+
 #business_card {
   position: relative;
   width: 100vw;
