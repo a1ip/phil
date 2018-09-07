@@ -20,6 +20,7 @@ pre a:hover {
 }
 
 #business_card {
+  min-width: 800px;
   position: relative;
   width: 100vw;
   height: 100vh; 
