@@ -20,7 +20,6 @@ pre a:hover {
 }
 
 #business_card {
-  min-width: 800px;
   position: relative;
   width: 100vw;
   height: 100vh; 
@@ -33,4 +32,10 @@ pre a:hover {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+@media screen and (max-width: 1000px) {
+  #business_card > pre {
+    font-size: 30px;
+  }
 }
