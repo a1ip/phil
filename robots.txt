@@ -1,4 +1,6 @@
 User-agent: *
-Allow: /index.html
+Allow: /$
 Disallow: /
 Host: phil.rigovanov.ru
+
+Sitemap: http://phil.rigovanov.ru/sitemap.xml
