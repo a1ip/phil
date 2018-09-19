@@ -6,4 +6,10 @@
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
+<url>
+<loc>http://phil.rigovanov.ru/philippe_rigovanov.pdf</loc>
+<lastmod>2018-09-08</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
 </urlset>
