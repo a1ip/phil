@@ -26,6 +26,7 @@ pre a:hover {
 }
 
 #business_card > pre {
+  margin: 0;
   font-size: 3vw;
   display: block;
   position: absolute;
