@@ -3,4 +3,4 @@ Allow: /$
 Disallow: /
 Host: phil.rigovanov.ru
 
-Sitemap: http://phil.rigovanov.ru/sitemap.xml
+Sitemap: https://phil.rigovanov.ru/sitemap.xml
