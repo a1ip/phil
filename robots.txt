@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /$
+Allow: /*.pdf$
 Disallow: /
 Host: phil.rigovanov.ru
 
