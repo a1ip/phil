@@ -26,7 +26,8 @@ pre a:hover {
 #business_card {
   position: relative;
   width: 100vw;
-  height: 100vh; 
+  height: 100vh;
+  margin-left: -4vw;
 }
 
 #business_card > pre {
