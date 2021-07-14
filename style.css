@@ -28,6 +28,7 @@ pre a:hover {
   width: 100vw;
   height: 100vh;
   min-width: 50em;
+  min-height: 30em;
   margin-left: -4vw;
 }
 
