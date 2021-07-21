@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  color: black;
 }
 
 pre span.value {
@@ -45,5 +46,29 @@ pre a:hover {
 @media screen and (max-width: 1000px) {
   #business_card > pre {
     font-size: 30px;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #bbb;
+    background: #282C34;
+  }
+
+  pre span.value {
+    color: #98C379;
+  }
+
+  pre span.field {
+    color: #E5C07B;
+  }
+
+  pre a,
+  a:link,
+  a:active,
+  a:visited,
+  a:hover {
+    color: #98C379;
+    text-decoration: none;
   }
 }
