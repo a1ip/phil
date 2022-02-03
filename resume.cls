@@ -1,9 +1,9 @@
 \LoadClass[14pt]{extreport}
 
 \usepackage{ifthen}
+\usepackage[T2A]{fontenc}
 \usepackage[english,russian]{babel}
 \usepackage[utf8x]{inputenc}
-\usepackage[T2A]{fontenc}
 \usepackage{geometry}
 \usepackage{array}
 \usepackage{enumitem}
